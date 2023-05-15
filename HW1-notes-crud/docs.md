@@ -1,9 +1,11 @@
-The homework consists of 3 functionalities:
+#The homework consists of 3 functionalities:
+
     - note insertion
     - note modification
     - note deletion
 
-There is an endpoint for each functionality:
+#There is an endpoint for each functionality:
+
     - /notes
         - type: POST
         - accepts: title: string, description: string. as body
