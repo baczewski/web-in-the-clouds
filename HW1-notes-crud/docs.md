@@ -30,5 +30,6 @@
 
 ## Steps to start the project
     
-    1. npm run build: builds the project
-    2. npm run start: starts the project
+    1. npm install: installs project dependencies
+    2. npm run build: builds the project
+    3. npm run start: starts the project
