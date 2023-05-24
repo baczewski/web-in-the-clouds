@@ -1,0 +1,19 @@
+{
+  "name": "web-in-the-clouds",
+  "version": "1.0.0",
+  "description": "Web - Notes in the cloud project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baczewski/web-in-the-clouds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baczewski/web-in-the-clouds/issues"
+  },
+  "homepage": "https://github.com/baczewski/web-in-the-clouds#readme"
+}
